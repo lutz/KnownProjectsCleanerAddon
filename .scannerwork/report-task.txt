@@ -1,7 +1,0 @@
-organization=lutz
-projectKey=lutz_KnownProjectsCleanerAddon
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.8111
-dashboardUrl=https://sonarcloud.io/dashboard?id=lutz_KnownProjectsCleanerAddon
-ceTaskId=AXIsHOWzK_QU-l4AjIog
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIsHOWzK_QU-l4AjIog
